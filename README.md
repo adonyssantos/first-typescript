@@ -20,3 +20,5 @@ Install TypeScript via NPM.
 ### `npx tsc`
 
 Run the compiler via tsc.
+
+https://www.typescriptlang.org/
