@@ -8,9 +8,15 @@ TypeScript is designed for the development of large applications and transcompil
 
 ## Table of contents
 - [Install TypeScript](#install-typescript)
-
+- [Compile TypeScript](#compile-typescript)
 ## Install TypeScript
 
 ### `sudo npm install -g typescript`
 
 Install TypeScript via NPM.
+
+## Compile TypeScript
+
+### `npx tsc`
+
+Run the compiler via tsc.
