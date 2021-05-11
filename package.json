@@ -1,0 +1,22 @@
+{
+  "name": "first-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonyssantos/first-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adonyssantos/first-typescript/issues"
+  },
+  "homepage": "https://github.com/adonyssantos/first-typescript#readme",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
