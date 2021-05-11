@@ -1,6 +1,6 @@
 # TypeScript
 
-TypeScript is a programming language developed and maintained by Microsoft. 
+[TypeScript](https://www.typescriptlang.org/) is a programming language developed and maintained by Microsoft. 
 
 It is a strict syntactical superset of JavaScript and adds optional static typing to the language. 
 
@@ -17,8 +17,6 @@ Install TypeScript via NPM.
 
 ## Compile TypeScript
 
-### `npx tsc`
+### `npx tsc [option] [file]`
 
 Run the compiler via tsc.
-
-https://www.typescriptlang.org/
