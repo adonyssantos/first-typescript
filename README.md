@@ -1,4 +1,4 @@
-#TypeScript
+# TypeScript
 
 TypeScript is a programming language developed and maintained by Microsoft. 
 
